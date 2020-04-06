@@ -8,6 +8,7 @@
 		<array>
 			<dict>
 				<key>Base</key>
+				<string>slide=0 dart=0 npci=0x2000 nv_disable=1 kext-dev-mode=1</string>
 				<string></string>
 				<key>Comment</key>
 				<string>algrey - commpage_populate -remove rdmsr</string>
